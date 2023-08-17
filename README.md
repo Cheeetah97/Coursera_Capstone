@@ -1,3 +1,3 @@
 # Educational Work
 
-This Repo contains notebooks exploring some self-created or kaggle datasets. Happy Reading!
+This Repo contains notebooks exploring kaggle datasets. Happy Reading!
